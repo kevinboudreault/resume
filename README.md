@@ -315,6 +315,10 @@ I developed a web app for generating user manual using an excel spreadsheet with
 	#### Personal
 	My Linux dev environment backup on github.
 	https://github.com/kevinboudreault/dev.env
+- ### Pitcher Half Full
+	#### Web Designer Portfolio
+  	Converted Figma design to WordPress site
+	https://www.pitcher-half-full.com/
 - ### Talbot Carpentry
 	#### Talbot Carpentry and Renovations
 	Wordpress website revamp
