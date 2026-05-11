@@ -1,3 +1,9 @@
+Kévin Boudreault
+----
+Email: kevinboudreault@gmail.com
+Location: Ontario, Canada
+
+
 ## Who am I?
 ---- 
 I'm a seasoned web developer with over two decades of expertise in crafting innovative solutions for complex challenges. My passion lies in designing pixel-perfect user interfaces and seamless user experiences across diverse industries.
