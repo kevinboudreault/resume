@@ -14,6 +14,21 @@ With a proven track record of developing custom reporting systems, content manag
 
 # Work history
 ---- 
+### Back-End PHP Developer
+#### Visual Knowledge Share
+##### 01/2022 - 01/2026
+- Take part in Grooming session for new features planning
+- Update Symfony components following BA requirements
+- Add new functionality and unit tests [PHPUnit & Jenkins]
+- Take part in code review on Github for coworker's PRs
+- Debug issue from Jira ticket found by the QA team / coworkers
+
+- Stack:
+	- ReactJS <> Symfony <> MariaDB
+	- Docker <> Linux server <> RabbitMQ
+	- PHPUnit <> Jenkins <> Github
+	- Jira <> Github
+
 ### Full-Stack Developer
 #### LCI LX
 ##### 07/2017 - 12/2021
