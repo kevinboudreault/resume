@@ -29,6 +29,7 @@ With a proven track record of developing custom reporting systems, content manag
 	- PHPUnit <> Jenkins <> Github
 	- Jira <> Github
 
+
 ### Full-Stack Developer
 #### LCI LX
 ##### 07/2017 - 12/2021
